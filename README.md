@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm [Yogesh!](https://yogeshbhardwaj.herokuapp.com/)
+
+- 📫 How to reach me: ...
+<a href="https://www.linkedin.com/in/yogesh-bhardwaj-61a005157/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/impirios">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:yb2112001@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://stackoverflow.com/users/10478788/impirios">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+I'm a computer science student 🎓 passionate about developing applications that solve real world problems.
+I am a huge open source enthusiast and hope to contribute as much as i can to the community 👯
 
 <!--
 **impirios/impirios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
