@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm [Yogesh!](https://yogeshbhardwaj.herokuapp.com/)
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, i'm [Yogesh!](https://yogeshbhardwaj.herokuapp.com/)
 
 - 📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/yogesh-bhardwaj-61a005157/">
@@ -18,8 +18,6 @@
 
 ### About Me 🚀
 I'm a computer science student 🎓 passionate about developing applications that solve real world problems.
-I am a huge open source enthusiast and hope to contribute as much as i can to the community 👯
-
 <!--
 **impirios/impirios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
