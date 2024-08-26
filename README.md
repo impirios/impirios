@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, i'm [Yogesh!](https://yogeshbhardwaj.herokuapp.com/)
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, i'm [Yogesh!](https://www.linkedin.com/in/yogesh-bhardwaj-61a005157/)
 
 - 📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/yogesh-bhardwaj-61a005157/">
