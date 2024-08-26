@@ -19,9 +19,7 @@
 ### About Me 🚀
 A software engineer and game dev hobbyist.
 <br/>
-My other account <a href="https://github.com/yogeshbh21">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-</a>
+
 
 <!--
 **impirios/impirios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
