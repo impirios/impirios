@@ -17,7 +17,7 @@
 <br />
 
 ### About Me 🚀
-A software engineer and game dev hobbyist with a passion for learning and building innovative solutions. I love working on exciting projects that challenge my skills and help me grow as a developer.
+A software engineer and game dev hobbyist with a passion for learning and building innovative solutions. I love working on projects that challenge my skills and help me grow as an engineer.
 
 <!--
 **impirios/impirios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
